@@ -1,5 +1,6 @@
 # ExpenseTrackerCLI
 This application/code is used for tracking my personal expense which includes all the relevant information
+Project URL: https://roadmap.sh/projects/expense-tracker
 # Expense Tracker CLI
 
 A simple command-line application to manage personal finances. The application allows users to add, update, delete, and view their expenses. It also provides summaries of expenses, including by month and category.
